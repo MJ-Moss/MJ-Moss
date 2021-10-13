@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJ-Moss
 - 👀 I’m interested in data analytics and machine learning, translation and linguistics
-- 🌱 I’m currently learning SQL and PYTHON at the Thinkful data analytics course
-- 💞️ I’m looking to collaborate on Chinese to English machine translation software and plugins for computer assisted translation (CAT) tools
+- 🌱 Graduate of Thinkful data analytics flex course, UCLA Extension program for court interpreters, and UCSD
+- 💞️ I'm looking for full-time work as a data analyst, and also to collaborate on projects for Chinese to English machine translation software and plugins for computer assisted translation (CAT) tools
 - 📫 How to reach me mjmoss@gmail.com or translate@mjmoss.com
 
 <!---
